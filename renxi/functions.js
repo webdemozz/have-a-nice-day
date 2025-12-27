@@ -52,7 +52,7 @@ function timeElapse(startDate) {
         }
 
         // Thời điểm bắt đầu từ ngày 30/1/2025
-        var startDate = new Date(2025, 4, 1); // tháng 0 là tháng 1 (vì tháng bắt đầu từ 0)
+        var startDate = new Date(2025, 10, 8); // tháng 0 là tháng 1 (vì tháng bắt đầu từ 0)
 
         // Cập nhật đồng hồ mỗi giây
         setInterval(function() {
